@@ -1,1 +1,1 @@
-"# rs-school" 
+https://khkharaishvili.github.io/rs-school/.
